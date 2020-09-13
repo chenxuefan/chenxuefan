@@ -24,20 +24,12 @@ Here are some ideas to get you started:
   <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About</a></strong>  
 </p>
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/chenxuefan/count.svg" /></a>
+<a href="https://billie52707.cn"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/chenxuefan/count.svg" /></a>
 
-##  [Welcome To Hello Alili](https://alili.tech)
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+##  [Welcome To Hello billie](https://billie52707.cn)
+<a href="https://billie52707.cn"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
 - 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
-- 👩🏻‍💻  [Taro系列](https://alili.tech/tags/taro/)
-- 👨🏻‍💻  [树莓派系列](https://alili.tech/tags/raspberry-pi/)
-- 👩🏻‍💻  [Nodejs系列](https://alili.tech/tags/nodejs/)
-- 👨🏻‍💻  [持续集成系列](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 👩🏻‍💻  [数学笔记](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
-- 👨🏻‍💻  [Puppeteer系列](https://alili.tech/tags/puppeteer/)
-- 👩🏻‍💻  [Javascript相关](https://alili.tech/tags/javascript/)
-- 👨🏻‍💻  [Mac系列](https://alili.tech/tags/mac/)
-- 👩🏻‍💻  [Angular相关](https://alili.tech/tags/angular/)
+
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -51,9 +43,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 
 
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
