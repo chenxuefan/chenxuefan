@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi, I'm <a href="https://alili.tech/">{F.A.N}</a>!</h1>
-<h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
+<h1 align="center">Hi, I'm <a href="https://billie52707.cn">billie</a>!</h1>
+<h1 align="center"></h1>
 
 
 <p align="center">
-  <strong><a href="https://alili.tech">博客</a></strong> |
-  <strong><a href="https://www.zhihu.com/people/fantastics/posts">知乎</a></strong> |
-  <strong><a href="https://juejin.im/user/606586147454599">掘金</a></strong>  |
-  <strong><a href="https://alili.tech/about/">About</a></strong>  
+  <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
+  <strong><a href="https://billie52707.cn/about/">About</a></strong>  
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
