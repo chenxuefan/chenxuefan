@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<p>
-  <!---->
-  <img alt="macOS" align="left" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white")
   <img alt="linux" align="left" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
 </p>
 <br>
