@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ##  [Welcome To Hello billie](https://billie52707.cn)
 <a href="https://billie52707.cn"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 👨🏻‍💻  [微前端系列](https://alili.tech/tags/microfrontend/)
 
 
 
