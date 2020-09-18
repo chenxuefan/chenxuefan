@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  align="right"/>
+
 <h1 align="center">Hi, I'm <a href="https://billie52707.cn">billie</a>!</h1>
 <h1 align="center"></h1>
 
@@ -31,6 +32,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/-python-informational?style=flat-square&logo=python&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true)
