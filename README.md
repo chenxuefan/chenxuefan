@@ -1,7 +1,8 @@
 <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966"  align="right"/>
 
-## hi!i'm [billie](https://billie52707.cn)
-
+## Hi! I'm [billie](https://billie52707.cn) 
+<strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
+  <strong><a href="https://billie52707.cn/about/">About</a></strong>  
 <!--
 **chenxuefan/chenxuefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-  <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
-  <strong><a href="https://billie52707.cn/about/">About</a></strong>  
 
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
