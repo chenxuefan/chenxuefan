@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white")
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white")
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
 
 <!-- editor -->
   <img alt="pychcarm" align="left" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
@@ -67,7 +67,8 @@ Here are some ideas to get you started:
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Hadoop-e5e595?style=flat-square&logo=&logoColor=white" />
 <!-- 版本控制 -->
-  <img alt="git" align="left" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
+![](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan">
