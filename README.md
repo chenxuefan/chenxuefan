@@ -26,20 +26,11 @@ Here are some ideas to get you started:
 </p>
 <a href="https://billie52707.cn"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/chenxuefan/count.svg" /></a>
 
-##  [Welcome To Hello billie](https://billie52707.cn)
-<a href="https://billie52707.cn"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
-
-<!-- editor -->
-  <img alt="pychcarm" align="left" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
-  <img alt="vscode" align="left" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white">
-
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true)
