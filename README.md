@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm <a href="https://billie52707.cn">billie</a>!</h1>
 
-<p align="center">
   <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About</a></strong>  
-</p>
+
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
