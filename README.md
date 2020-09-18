@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/-python-informational?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 ![](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true)
