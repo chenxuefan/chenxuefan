@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About</a></strong>  
 </p>
-<a href="https://billie52707.cn"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/chenxuefan/count.svg" /></a>
-
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
