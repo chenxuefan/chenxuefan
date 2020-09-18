@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 ![git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 
 ## 𝗦𝘁𝗮𝘁𝘀
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan">
+![](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan)
 
