@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img alt="javascript" align="left" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img alt="Vue" align="left" src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js">
 </p>
-<br>
+
 <!-- 后端 -->
 <p>
   <img alt="python" align="left" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img alt="numpy" align="left" src="https://img.shields.io/badge/-numpy-2088FF?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="matplotlib" align="left" src="https://img.shields.io/badge/-matplotlib-2088FF?style=flat-square&logo=Matplotlib&logoColor=white" />
 </p>
-<br>
+
 <!-- 用过但不太熟的语言 -->
 <p>
   <img alt="c" align="left" src="https://img.shields.io/badge/--d09e65?style=flat-square&logo=C&logoColor=white" />
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   <img alt="redis" align="left" src="https://img.shields.io/badge/--red?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" align="left" src="https://img.shields.io/badge/--green?style=flat-square&logo=MongoDB&logoColor=white" />
 </p>
-<br>
+
 <!-- 部署工具 -->
 <p>
   <img alt="Docker" align="left" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Hadoop-e5e595?style=flat-square&logo=&logoColor=white" />
 </p>
-<br>
+
 <!-- 版本控制 -->
 <p>
   <img alt="git" align="left" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
@@ -94,11 +94,7 @@ Here are some ideas to get you started:
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Fantasy9527&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy9527">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan">
 </p>
 
-****
-
-
-![image](https://user-images.githubusercontent.com/9129438/92961979-c843fe80-f4a2-11ea-9007-d000ae3093e3.png)
