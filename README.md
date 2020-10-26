@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 技术栈 / 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)
