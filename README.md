@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <!-- 后端 -->
 
-  <img alt="python" align="left" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" />
+  ![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow)
   <img alt="flask " align="left" src="https://img.shields.io/badge/-flask-2088FF?style=flat-square&logo=flask&logoColor=white" />
   <img alt="django" align="left" src="https://img.shields.io/badge/-django-2088FF?style=flat-square&logo=django&logoColor=white" />
   <img alt="Requests" align="left" src="https://img.shields.io/badge/-requests-2088FF?style=flat-square&logo=requests&logoColor=white" />
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <!-- 用过但不太熟的语言 -->
 
-  <img alt="c" align="left" src="https://img.shields.io/badge/--d09e65?style=flat-square&logo=C&logoColor=white" />
+  ![c](https://img.shields.io/badge/--d09e65?style=flat-square&logo=C&logoColor=white)
   <img alt="php" align="left" src="https://img.shields.io/badge/--394ab8?style=flat-square&logo=php&logoColor=white" />
   <img alt="swift " align="left" src="https://img.shields.io/badge/--orange?style=flat-square&logo=Swift&logoColor=white" />
   <img alt="go" align="left" src="https://img.shields.io/badge/--95cee5?style=flat-square&logo=go&logoColor=white" />
