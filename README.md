@@ -55,9 +55,9 @@ Here are some ideas to get you started:
   <img alt="numpy" align="left" src="https://img.shields.io/badge/-numpy-2088FF?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="matplotlib" align="left" src="https://img.shields.io/badge/-matplotlib-2088FF?style=flat-square&logo=matplotlib&logoColor=white" />
 
-<br>
+
 <!-- 用过但不太熟的语言 -->
-<p>
+
   <img alt="c" align="left" src="https://img.shields.io/badge/--d09e65?style=flat-square&logo=C&logoColor=white" />
   <img alt="php" align="left" src="https://img.shields.io/badge/--394ab8?style=flat-square&logo=php&logoColor=white" />
   <img alt="swift " align="left" src="https://img.shields.io/badge/--orange?style=flat-square&logo=Swift&logoColor=white" />
@@ -65,24 +65,24 @@ Here are some ideas to get you started:
   <img alt="mysql" align="left" src="https://img.shields.io/badge/--2d80bb?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="redis" align="left" src="https://img.shields.io/badge/--red?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" align="left" src="https://img.shields.io/badge/--green?style=flat-square&logo=MongoDB&logoColor=white" />
-</p>
-<br>
+
 <!-- 部署工具 -->
-<p>
+
   <img alt="Docker" align="left" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" align="left" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Hadoop-e5e595?style=flat-square&logo=&logoColor=white" />
-</p>
-<br>
+
 <!-- 版本控制 -->
 
-<p>
+
   <img alt="git" align="left" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
-</p>
+
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan)
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan">
+</p>
 
