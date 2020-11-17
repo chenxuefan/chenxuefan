@@ -3,7 +3,7 @@
 ## Hi! I'm [billie](https://billie52707.cn) 
 <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About</a></strong>  
-<!--
+
 **chenxuefan/chenxuefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 ## 技术栈 / 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -30,13 +29,13 @@ Here are some ideas to get you started:
 
 <!-- editor -->
 
-  <img alt="pychcarm" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
-  <img alt="vscode" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white">
+  ![pychcarm](https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white)
+  ![vscode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 <!-- 前端 -->
 
-  <img alt="html5" align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
-  <img alt="css3" align="left" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
+  ![html5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+  ![css3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
   <img alt="javascript" align="left" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img alt="jquery" align="left" src="https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery&logoColor=blue">
   <img alt="bootstrap" align="left" src="https://img.shields.io/badge/-BootStrap-%232c3e50?style=flat-square&logo=BootStrap&logoColor=purple">
