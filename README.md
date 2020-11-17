@@ -24,26 +24,24 @@ Here are some ideas to get you started:
 
 <!-- os -->
   
-  <img alt="macOS" align="left" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
-  <img alt="linux" align="left" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
+  <img alt="macOS"  src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
+  <img alt="linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
 
 
 <!-- editor -->
-<p>
-  <img alt="pychcarm" align="left" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
-  <img alt="vscode" align="left" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white">
-</p>
-<br>
+
+  <img alt="pychcarm" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
+  <img alt="vscode" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white">
+
 <!-- 前端 -->
-<p>
+
   <img alt="html5" align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
   <img alt="css3" align="left" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3">
   <img alt="javascript" align="left" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A">
   <img alt="jquery" align="left" src="https://img.shields.io/badge/-jQuery-%232c3e50?style=flat-square&logo=jQuery&logoColor=blue">
   <img alt="bootstrap" align="left" src="https://img.shields.io/badge/-BootStrap-%232c3e50?style=flat-square&logo=BootStrap&logoColor=purple">
   <img alt="Vue" align="left" src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js">
-</p>
-<br>
+
 <!-- 后端 -->
 
   <img alt="python" align="left" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" />
