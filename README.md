@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <!-- os -->
 <p>
   <img alt="macOS" align="left" src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
