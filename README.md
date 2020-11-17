@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img alt="pychcarm" align="left" src="https://img.shields.io/badge/-PyCharm-informational?style=flat-square&logo=pycharm&logoColor=white">
   <img alt="vscode" align="left" src="https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white">
 </p>
-
+<br>
 <!-- 前端 -->
 <p>
   <img alt="html5" align="left" src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   <img alt="bootstrap" align="left" src="https://img.shields.io/badge/-BootStrap-%232c3e50?style=flat-square&logo=BootStrap&logoColor=purple">
   <img alt="Vue" align="left" src="https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js">
 </p>
+<br>
 <!-- 后端 -->
 
 <p>
@@ -46,6 +47,7 @@ Here are some ideas to get you started:
   <img alt="numpy" align="left" src="https://img.shields.io/badge/-numpy-2088FF?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="matplotlib" align="left" src="https://img.shields.io/badge/-matplotlib-2088FF?style=flat-square&logo=matplotlib&logoColor=white" />
 </p>
+<br>
 <!-- 用过但不太熟的语言 -->
 <p>
   <img alt="c" align="left" src="https://img.shields.io/badge/--d09e65?style=flat-square&logo=C&logoColor=white" />
@@ -56,6 +58,7 @@ Here are some ideas to get you started:
   <img alt="redis" align="left" src="https://img.shields.io/badge/--red?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MongoDB" align="left" src="https://img.shields.io/badge/--green?style=flat-square&logo=MongoDB&logoColor=white" />
 </p>
+<br>
 <!-- 部署工具 -->
 <p>
   <img alt="Docker" align="left" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -63,12 +66,12 @@ Here are some ideas to get you started:
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=Nginx&logoColor=white" />
   <img alt="hadoop" align="left" src="https://img.shields.io/badge/-Hadoop-e5e595?style=flat-square&logo=&logoColor=white" />
 </p>
+<br>
 <!-- 版本控制 -->
-
 <p>
   <img alt="git" align="left" src="https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff" />
 </p>
-
+<br>
 
 ## 𝗦𝘁𝗮𝘁𝘀
 <p align="left">
