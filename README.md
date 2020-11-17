@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 <!-- os -->
   
-  <img alt="macOS"  src="https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white">
-  <img alt="linux" src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white">
+  ![macOS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)
+  ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white")
 
 
 <!-- editor -->
