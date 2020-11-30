@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img alt="python" align="left" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" />
 <br><br><br><br><br>
 
 ## 𝗦𝘁𝗮𝘁𝘀
