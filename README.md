@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   <img alt="python" align="left" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" />
   <img alt="flask " align="left" src="https://img.shields.io/badge/-flask-2088FF?style=flat-square&logo=flask&logoColor=white" />
   <img alt="django" align="left" src="https://img.shields.io/badge/-django-2088FF?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Requests" align="left" src="https://img.shields.io/badge/-requests-2088FF?style=flat-square&logo=requests&logoColor=white" />
-  <img alt="selenium " align="left" src="https://img.shields.io/badge/-selenium-2088FF?style=flat-square&logo=Selenium&logoColor=white" />
   <img alt="pandas" align="left" src="https://img.shields.io/badge/-pandas-2088FF?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="numpy" align="left" src="https://img.shields.io/badge/-numpy-2088FF?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="matplotlib" align="left" src="https://img.shields.io/badge/-matplotlib-2088FF?style=flat-square&logo=matplotlib&logoColor=white" />
