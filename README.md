@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 <img alt="python" align="left" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow" />
 <br><br><br><br>
 
-![info](https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&count_private=true&hide=prs&theme=vue&custom_title=💕%20Github%20Stats&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan&layout=compact&card_width=445&custom_title=😊%20Used%20Languages&langs_count=10)
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenxuefan&custom_title=🎲%20Week%20Stats)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenxuefan&custom_title=%20Week%20Stats)
 
 <p align="left">          
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
