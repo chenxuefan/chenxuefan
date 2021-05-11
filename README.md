@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chenxuefan&custom_title=%20Week%20Stats)
 
 <p align="left">          
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
