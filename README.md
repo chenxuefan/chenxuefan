@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="left">          
-<img alt="ouuan's github stats" width=“500” height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" width=“300” height='230' src="https://github-readme-stats.vercel.app/api?username=chenxuefan&show_icons=true&include_all_commits=true">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxuefan">
 </p> 
 
