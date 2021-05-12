@@ -1,5 +1,8 @@
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
 
 ## Hi!  I'm [Billie](https://billie52707.cn) 
 <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
