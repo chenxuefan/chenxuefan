@@ -17,7 +17,6 @@
 
 
 <!--START_SECTION:waka-->
-`weekly development`
 ```text
 Python     1 hr 57 mins    ██████████████████▒░░░░░░   73.02 % 
 Markdown   28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 % 
