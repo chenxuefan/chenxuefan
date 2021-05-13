@@ -1,19 +1,18 @@
 
 
-## Hi!  I'm [Billie](https://billie52707.cn) 
+## Hi there, I'm [Billie](https://billie52707.cn) 
 <strong><a href="https://www.cnblogs.com/billie52707">博客</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About me</a></strong>  
 
 - ⚡ Fun fact: I'm a body builder 🏃
 - 🔭 I’m currently working on Data Grand
-- 🌱 I’m currently learning python、docker
+- 🌱 I’m currently learning ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow)、docker
 - 📑 I own a [blog](https://billie52707.cn) for writing articles and sharing ideas.
 - 😄 Pronouns: He/him
 
 
 
-![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=yellow)
-<br><br><br><br>
+
 
 
 
