@@ -1,6 +1,6 @@
 
 
-## Hi there, I'm [Billie](https://billie52707.cn) 
+## Hi there, I'm [Billy](https://billie52707.cn) 
 <strong><a href="https://www.cnblogs.com/billie52707">Blog</a></strong> |
   <strong><a href="https://billie52707.cn/about/">About me</a></strong>  
 
