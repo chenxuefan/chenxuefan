@@ -12,10 +12,7 @@
 - 😄  Pronouns: He/him
 
 <p>
-  <img align="left" alt="billy's github stats" width='200'  src="https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=chenxuefan&show_icons=true&include_all_commits=true">
-  <img align="right" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=chenxuefan">
-</p>
-<br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace&custom_title=⌛%20TIME%20SPENT)](https://github.com/pure-peace/pure-peace"}
+  <img align="left" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=chenxuefan&show_icons=true&include_all_commits=true">
+  <img align="left" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=chenxuefan">
+  <img align="left"  width='400'  src="https://github-readme-stats.vercel.app/api/wakatime?username=chenxuefan&custom_title=⌛%20TIME%20SPENT">
 </p>
