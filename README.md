@@ -15,6 +15,6 @@
   <img align="left" alt="billy's github stats" width='300'  src="https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=chenxuefan&show_icons=true&include_all_commits=true">
   <img align="right" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=chenxuefan">
 </p>
-<p>
+<!-- <p>
 <img align="right" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace&custom_title=⌛%20TIME%20SPENT)](https://github.com/pure-peace/pure-peace"}
-</p>
+</p> -->
