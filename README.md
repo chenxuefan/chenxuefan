@@ -11,8 +11,9 @@
 - 📑  I own a [blog](https://billie52707.cn) for writing articles and sharing ideas.
 - 😄  Pronouns: He/him
 
+<p>
+  <img align="left" alt="billy's github stats" width='300'  src="https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=chenxuefan&show_icons=true&include_all_commits=true">
+  <img align="right" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=chenxuefan">
+</p>
 
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PurePeace&custom_title=⌛%20TIME%20SPENT)](https://github.com/pure-peace/pure-peace)
