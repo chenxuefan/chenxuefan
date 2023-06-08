@@ -10,6 +10,8 @@
 - 🌱  I’m currently learning python、docker.
 - 📑  I own a [blog](https://billie52707.cn) for writing articles and sharing ideas.
 - 😄  Pronouns: He/him
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p>
   <img align="left" alt="billy's github stats" width='400'  src="https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=chenxuefan&show_icons=true&include_all_commits=true">
