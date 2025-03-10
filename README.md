@@ -13,7 +13,7 @@
 - 😄  Pronouns: He/him
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<!--
 <p>
   
   <img align="left"  width='400'  src="https://github-readme-stats.vercel.app/api/wakatime?username=chenxuefan&custom_title=⌛%20TIME%20SPENT">
