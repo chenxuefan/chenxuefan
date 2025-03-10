@@ -3,13 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Billy;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--## Hi there, I'm [Billy](https://chenxuefan.cn) -->
-<strong><a href="https://www.cnblogs.com/billie52707">Blog</a></strong> |
-  <strong><a href="https://chenxuefan.cn/about/">About me</a></strong>  
+<strong><a href="https://chenxuefan.cn">Blog</a></strong> |
+  <strong><a href="https://blog.chenxuefan.cn/about/">About me</a></strong>  
 
 - 🌱  I’m currently learning python、docker.
 - 🎹  I'm currently playing the piano.
-- 📷  I'm currently shooting photos.
-- 📑  I own a [blog](https://chenxuefan.cn) for writing articles and sharing ideas.
+- 📷  I'm currently shooting photos, here's my [gallery](https://gallery.chenxuefan.cn).
+- 📑  I own a [blog](https://blog.chenxuefan.cn) for writing articles and sharing ideas.
 - 😄  Pronouns: He/him
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
